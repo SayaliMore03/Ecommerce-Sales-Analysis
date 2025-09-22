@@ -8,16 +8,43 @@ A data-driven project analyzing e-commerce sales and customer behavior. It inclu
 
 ---
 
-## **Project Overview**
+##  1. **Project Overview**
 This project provides a comprehensive analysis of e-commerce product sales and customer behavior. It delivers actionable insights on sales trends, product performance, and customer preferences to help businesses optimize strategies. The analysis involves **data cleaning, transformation, and visualization** using **Python, SQL, and Power BI dashboards**.  
 
-Key insights include:  
-- Customer demographics and brand preferences  
-- Product-wise and category-wise sales trends  
-- Inventory and purchase analysis  
-- Revenue and transaction patterns  
+### **2. Data Cleaning & Preprocessing**
+- Removed missing or duplicate values  
+- Standardized column names and formats  
+- Handled date and numeric data inconsistencies  
+- Merged multiple datasets to create a **consolidated dataset** for analysis  
+
+### **3. Exploratory Data Analysis (EDA)**
+- Explored **customer demographics**: age, gender, profession  
+- Studied **brand preferences** and purchase patterns  
+- Analyzed **sales trends** over time (daily, monthly, yearly)  
+- Examined **product performance** by quantity sold, revenue, and category  
+
+### **4. SQL Analysis**
+- Performed queries to summarize:  
+  - Total revenue and transactions per product/category  
+  - Top-selling products and brands  
+  - Inventory usage and replenishment trends  
+- Calculated key KPIs like **total sales, average purchase value, and stock turnover**  
+
+### **5. Dashboard Creation (Power BI)**
+- Developed interactive dashboards to visualize insights:  
+  - **Customer Analysis Dashboard** – Gender distribution, age groups, brand preferences  
+  - **Sales Analysis Dashboard** – Revenue trends, top products, category-wise sales, and monthly performance  
+- Added filters and slicers to allow dynamic exploration of data  
+
+### **6. Key Insights**
+- Identified **most profitable products and categories**  
+- Discovered **customer segments** with high purchase frequency  
+- Observed **seasonal sales trends** and inventory gaps  
+- Provided **actionable recommendations** for stock optimization and marketing strategies  
 
 ---
+
+
 
 
 
